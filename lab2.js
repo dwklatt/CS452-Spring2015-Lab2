@@ -1,3 +1,4 @@
+//Derek Klatt 2/20 Lab 2
 var gl;
 var points;
 var x = 0;
